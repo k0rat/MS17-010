@@ -1,0 +1,4 @@
+apt-get remove python-pyasn1
+apt-get autoremove
+pip uninstall pyasn1
+easy_install pyasn1-0.4.2-py2.4.egg
